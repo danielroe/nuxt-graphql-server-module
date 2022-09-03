@@ -17,7 +17,7 @@ export default defineNuxtModule<ModuleOptions>({
     name: 'nuxt-graphql-server',
     configKey: 'graphqlServer',
     compatibility: {
-      nuxt: '^3.0.0'
+      nuxt: '^3.0.0-rc.1'
     }
   },
   defaults: {
